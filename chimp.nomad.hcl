@@ -14,7 +14,7 @@ job "chimp" {
       driver = "docker"
 
       config {
-        image = "blazarcapital/chimp-api:1.0.0-beta.3"
+        image = "some-company/chimp-api:1.0.0-beta.3"
 
         port_map {
           http = 3000
