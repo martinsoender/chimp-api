@@ -1,0 +1,12 @@
+{
+  "name": "@chimp/api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "fastify": "^1.13.4",
+    "fastify-cors": "^1.0.0"
+  }
+}
